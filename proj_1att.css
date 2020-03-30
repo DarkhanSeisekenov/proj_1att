@@ -1,0 +1,209 @@
+*{
+  borde: 3px solid red;
+}
+li{
+  margin: 25px;
+  display: inline;
+  font-family: 'Baloo Thambi 2', cursive;
+}
+ .logo{
+   margin-left: 150px;
+   float: left;
+ }
+.menu{
+  margin-right: 200px;
+  font-size: 15px;
+  margin-top: 5px;
+  color: rgb(155, 155, 155);
+  float: right;
+  font-family: monospace;
+  display: inline-flex;
+}
+li:hover{
+  opacity: 1;
+  color: rgb(54, 47, 163);
+  cursor: pointer;
+  
+
+}
+.text{
+  box-sizing: border-box;
+  width: 450px;
+  height: 400px;
+  float: left;
+  margin-left: 150px;
+  margin-top: 100px;
+}
+.email {
+  background-color:white;
+  border:  rgb(209, 209, 209) 1px solid;
+  border-radius: 10px;
+  color: rgb(150, 133, 133);
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 13px;
+  margin: 4px 2px;
+  cursor: pointer;
+  letter-spacing: 2px;
+  padding: 20px 95px;
+  margin-top: 45px;
+}
+.quoutes {
+  background-color: rgb(218, 44, 44);
+  border: rgb(209, 209, 209) 1px solid;
+  border-radius: 10px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 13px;
+  margin: 4px 2px;
+  cursor: pointer;
+  letter-spacing: 2px;
+  padding: 20px 15px;
+  margin-top: 45px;
+}
+.photo4{
+  margin-right: 100px;
+  margin-top: 25px;
+  float: right;
+  
+}
+.big{
+font-family:'Baloo Thambi 2', cursive;
+font-family:'Baloo Thambi 2', cursive;
+font-family:Arial;  
+font-size: 60px;
+margin-top: 5px;
+color: rgb(53, 58, 121);
+
+}
+.small{
+font-size: 15px;
+font-family: 'Baloo Thambi 2', cursive;;
+margin-top: -15px;
+color: rgb(83, 82, 124);
+}
+.photo5{
+  float: inline-start;
+  
+  
+}
+.knopka_1{float: left;}
+.knopka_2{float: right;} 
+.Sign{
+  background-color:rgb(226, 60, 60);
+  border: rgb(209, 209, 209) 1px solid;
+  border-radius: 10px;
+  color: rgb(255, 255, 255);
+  padding: 45px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 13px;
+  margin: 4px 2px;
+  cursor: pointer;
+  letter-spacing: 2px;
+  padding: 10px 20px;
+  
+}
+
+
+.center{
+  width: 1000px;
+ height: 800px;
+  margin: 0 auto;
+}
+.big2{
+margin: 0 auto;
+text-align: center;
+font-family:'Baloo Thambi 2', cursive;
+font-family:'Baloo Thambi 2', cursive;
+font-family:Arial;  
+font-size: 40px;
+margin-top: 5px;
+color: rgb(53, 58, 121);
+
+}
+.small2{
+  font-size: 15px;
+font-family: 'Baloo Thambi 2', cursive;;
+margin-top: 15px;
+color: rgb(83, 82, 124);
+text-align: center;
+}
+
+.textbig{
+  
+margin-top: 100px;
+
+  
+}
+.big3{
+  margin: 0 auto;
+  font-family:'Baloo Thambi 2', cursive;
+  font-family:'Baloo Thambi 2', cursive;
+  font-family:Arial;  
+  font-size: 30px;
+  margin-top: 5px;
+  color: rgb(53, 58, 121);
+}
+.small3{
+  font-size: 15px;
+  font-family: 'Baloo Thambi 2', cursive;;
+  margin-top: 15px;
+  color: rgb(83, 82, 124);
+  
+}
+.big4{
+  margin: 0 auto;
+  font-family:'Baloo Thambi 2', cursive;
+  font-family:'Baloo Thambi 2', cursive;
+  font-family:Arial;  
+  font-size: 30px;
+  margin-top: 5px;
+  color: rgb(53, 58, 121);
+}
+.small4{
+  font-size: 15px;
+font-family: 'Baloo Thambi 2', cursive;;
+margin-top: 15px;
+color: rgb(83, 82, 124);
+}
+
+.big5{
+  margin: 0 auto;
+  font-family:'Baloo Thambi 2', cursive;
+  font-family:'Baloo Thambi 2', cursive;
+  font-family:Arial;  
+  font-size: 30px;
+  margin-top: 5px;
+  color: rgb(53, 58, 121);
+}
+.small5{
+  font-size: 15px;
+font-family: 'Baloo Thambi 2', cursive;;
+margin-top: 15px;
+color: rgb(83, 82, 124);
+}
+.as{
+  width: 300px;
+  float: left;
+  margin-left: 30px;
+}
+.ad{
+  width: 300px;
+  float: left;
+  margin-left: 30px;
+}
+.af{
+  width: 300px;
+  float: right;
+  margin-left: 
+}
+.nerv{
+  width: 1000px;
+  height: 200px;
+}
+
